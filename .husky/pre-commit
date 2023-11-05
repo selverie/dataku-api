@@ -35,4 +35,4 @@ npm run build ||
     false;
 )
 
-echo '✅✅✅ You win this time... I am committing this now. ✅✅✅
+echo '✅✅✅ You win this time... I am committing this now. ✅✅✅'
